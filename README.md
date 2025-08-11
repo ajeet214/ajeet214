@@ -82,11 +82,11 @@ I'm a Lead AI Engineer
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ajeet214&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ajeet214&show_icons=true&theme=dark&langs_count=10"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ajeet214&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ajeet214&show_icons=true&langs_count=10"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajeet214&show_icons=true&langs_count=10" />
