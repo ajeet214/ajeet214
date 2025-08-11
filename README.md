@@ -19,7 +19,7 @@ I'm a Lead AI Engineer
          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ajeet214/ajeet214/main/images/linkedin.svg" />
          <img src="https://raw.githubusercontent.com/ajeet214/ajeet214/main/images/linkedin_svg.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> 
       </picture>
-   </a>
+   </a>&nbsp;
    <a href="https://stackoverflow.com/users/11179336/ajeet-verma" style="display: inline-block; margin-right: 50px;" target="_blank" rel="noreferrer">
       <picture>
          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ajeet214/ajeet214/main/images/logo-stackoverflow.svg" />
