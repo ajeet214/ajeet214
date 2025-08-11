@@ -33,6 +33,13 @@ I'm a Lead AI Engineer
          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ajeet214/ajeet214/main/images/medium-seeklogo.svg" />
          <img src="https://raw.githubusercontent.com/ajeet214/ajeet214/main/images/medium-seeklogo.svg" width="96" height="32" alt="Medium.com" title="Medium.com" /> 
       </picture>
+   </a>&nbsp;
+   <a href="https://x.com/ajeet214" target="_blank" rel="noreferrer">
+      <picture>
+         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ajeet214/ajeet214/main/images/icons8-x-32.svg" />
+         <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ajeet214/ajeet214/main/images/icons8-x-32.svg" />
+         <img src="https://raw.githubusercontent.com/ajeet214/ajeet214/main/images/icons8-x-32.svg" width="32" height="32" alt="x.com" title="x.com" /> 
+      </picture>
    </a>
 </p>
 
