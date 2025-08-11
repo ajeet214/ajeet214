@@ -11,7 +11,7 @@ I'm a Lead AI Engineer
 * I previously worked at [Viettel](https://viettel.com.vn/en/), [Capgemini Engineering](https://www.capgemini.com/about-us/who-we-are/our-brands/capgemini-engineering/), [Accolite](https://www.bounteous.com/), etc.
 
 ### Connect With Me:
-======================================================================================================================================
+---
 <p align="left">
    <a href="https://www.linkedin.com/in/ajeet214/" target="_blank" rel="noreferrer">
       <picture>
