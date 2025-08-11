@@ -63,9 +63,5 @@ I'm a Lead AI Engineer
 
 <a href="https://github.com/ajeet214" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajeet214&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Most Used Languages" /></a>
 
-![](https://github-readme-stats.vercel.app/api?username=ajeet214&theme=catppuccin_latte&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ajeet214&theme=catppuccin_latte&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ajeet214&theme=catppuccin_latte&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ajeet214&theme=catppuccin_latte&no-frame=false&no-bg=true&margin-w=4)
