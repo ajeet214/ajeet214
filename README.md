@@ -11,16 +11,25 @@ I'm a Lead AI Engineer
 * I previously worked at [Viettel](https://viettel.com.vn/en/), [Capgemini Engineering](https://www.capgemini.com/about-us/who-we-are/our-brands/capgemini-engineering/), [Accolite](https://www.bounteous.com/), etc.
 
 ### Connect With Me:
----
+
 <p align="left">
    <a href="https://www.linkedin.com/in/ajeet214/" target="_blank" rel="noreferrer">
       <picture>
          <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ajeet214/ajeet214/blob/main/images/linkedin_svg.svg" />
-         <source media="(prefers-color-scheme: light)" srcset="https://github.com/ajeet214/ajeet214/blob/main/images/linkedin_svg.svg" />
+         /*<source media="(prefers-color-scheme: light)" srcset="https://github.com/ajeet214/ajeet214/blob/main/images/linkedin_svg.svg" />*/
          <img src="https://github.com/ajeet214/ajeet214/blob/main/images/linkedin_svg.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> 
       </picture>
    </a>
+   <a href="https://www.linkedin.com/in/amardeep-verma/" target="_blank" rel="noreferrer">
+      <picture>
+         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
+         <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
+         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> 
+      </picture>
+   </a>
 </p>
+
+---
 
 ### 🌐 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ajeet214) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ajeet214) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/11179336) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ajeet214) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ajeet214@outlook.com) 
