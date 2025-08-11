@@ -27,6 +27,13 @@ I'm a Lead AI Engineer
          <img src="https://raw.githubusercontent.com/ajeet214/ajeet214/main/images/logo-stackoverflow.svg" width="96" height="32" alt="StackOverflow" title="StackOverflow" /> 
       </picture>
    </a>
+   <a href="https://medium.com/@ajeet214" target="_blank" rel="noreferrer">
+      <picture>
+         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ajeet214/ajeet214/main/images/medium-icon-seeklogo.svg" />
+         <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ajeet214/ajeet214/main/images/medium-icon-seeklogo.svg" />
+         <img src="https://raw.githubusercontent.com/ajeet214/ajeet214/main/images/medium-icon-seeklogo.svg" width="32" height="32" alt="Medium.com" title="Medium.com" /> 
+      </picture>
+   </a>
 </p>
 
 ---
