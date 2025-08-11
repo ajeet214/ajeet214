@@ -15,8 +15,8 @@ I'm a Lead AI Engineer
 <p align="left">
    <a href="https://www.linkedin.com/in/ajeet214/" target="_blank" rel="noreferrer">
       <picture>
-         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ajeet214/ajeet214/main/images/linkedin_svg.svg" />
-         <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ajeet214/ajeet214/main/images/linkedin_svg.svg" />
+         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ajeet214/ajeet214/main/images/linkedin.svg" />
+         <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ajeet214/ajeet214/main/images/linkedin.svg" />
          <img src="https://raw.githubusercontent.com/ajeet214/ajeet214/main/images/linkedin_svg.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> 
       </picture>
    </a>
