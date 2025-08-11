@@ -31,7 +31,7 @@ I'm a Lead AI Engineer
       <picture>
          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ajeet214/ajeet214/main/images/medium-icon-seeklogo.svg" />
          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ajeet214/ajeet214/main/images/medium-icon-seeklogo.svg" />
-         <img src="https://raw.githubusercontent.com/ajeet214/ajeet214/main/images/medium-icon-seeklogo.svg" width="32" height="32" alt="Medium.com" title="Medium.com" /> 
+         <img src="https://raw.githubusercontent.com/ajeet214/ajeet214/main/images/medium-icon-seeklogo.svg" width="48" height="48" alt="Medium.com" title="Medium.com" /> 
       </picture>
    </a>
 </p>
