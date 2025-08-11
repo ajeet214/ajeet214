@@ -22,9 +22,9 @@ I'm a Lead AI Engineer
    </a>
    <a href="https://stackoverflow.com/users/11179336/ajeet-verma" target="_blank" rel="noreferrer">
       <picture>
-         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
-         <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
-         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="StackOverflow" title="StackOverflow" /> 
+         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ajeet214/ajeet214/main/images/logo-stackoverflow.svg" />
+         <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ajeet214/ajeet214/main/images/logo-stackoverflow.svg" />
+         <img src="https://raw.githubusercontent.com/ajeet214/ajeet214/main/images/logo-stackoverflow.svg" width="32" height="32" alt="StackOverflow" title="StackOverflow" /> 
       </picture>
    </a>
 </p>
