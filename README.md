@@ -12,7 +12,7 @@ I'm a Lead AI Engineer
 
 ### Connect With Me:
 
-<p align="left" style="display: flex; gap: 10px;">
+<p align="left" style="display: flex; gap: 20px;">
    <a href="https://www.linkedin.com/in/ajeet214/" target="_blank" rel="noreferrer">
       <picture>
          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ajeet214/ajeet214/main/images/linkedin.svg" />
