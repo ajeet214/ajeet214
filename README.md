@@ -24,7 +24,7 @@ I'm a Lead AI Engineer
       <picture>
          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ajeet214/ajeet214/main/images/logo-stackoverflow.svg" />
          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ajeet214/ajeet214/main/images/logo-stackoverflow.svg" />
-         <img src="https://raw.githubusercontent.com/ajeet214/ajeet214/main/images/logo-stackoverflow.svg" width="300" height="100" alt="StackOverflow" title="StackOverflow" /> 
+         <img src="https://raw.githubusercontent.com/ajeet214/ajeet214/main/images/logo-stackoverflow.svg" width="150" height="50" alt="StackOverflow" title="StackOverflow" /> 
       </picture>
    </a>
 </p>
