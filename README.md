@@ -66,7 +66,8 @@ I'm a Lead AI Engineer
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=ajeet214&show_icons=true" />
-</picture><br>
+</picture>
+<br>
 <picture>
   <source
     srcset="https://github-readme-streak-stats.herokuapp.com/?user=ajeet214&show_icons=true&theme=dark"
@@ -78,7 +79,7 @@ I'm a Lead AI Engineer
   />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajeet214&show_icons=true" />
 </picture>
-
+<br>
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ajeet214&show_icons=true&theme=dark&langs_count=10"
