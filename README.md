@@ -69,26 +69,14 @@ I'm a Lead AI Engineer
 </picture>
 <br>
 <picture>
-  <source
-    srcset="https://github-readme-streak-stats.herokuapp.com/?user=ajeet214&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-streak-stats.herokuapp.com/?user=ajeet214&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
+  <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=ajeet214&show_icons=true&theme=dark" media="(prefers-color-scheme: dark)"/>
+  <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=ajeet214&show_icons=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajeet214&show_icons=true" />
 </picture>
 <br>
 <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ajeet214&show_icons=true&theme=dark&langs_count=10"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ajeet214&show_icons=true&langs_count=10"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
+  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ajeet214&show_icons=true&theme=dark&langs_count=10" media="(prefers-color-scheme: dark)"/>
+  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ajeet214&show_icons=true&langs_count=10" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajeet214&show_icons=true&langs_count=10" />
 </picture>
 
