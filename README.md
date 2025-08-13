@@ -157,5 +157,22 @@ I'm a Lead AI Engineer
     <img src="https://img.shields.io/badge/View%20All%20Articles-%23000000?style=for-the-badge&logo=medium&logoColor=white&labelColor=0A0A0A&color=0A0A0A" alt="View All Articles on Medium" style="border-radius:50px; box-shadow:0 4px 14px rgba(0,0,0,0.3);">
   </a>
 </div>
+<div align="center">
+  <br/>
+  <a href="https://medium.com/@ajeet214" target="_blank" style="
+    display:inline-block;
+    padding: 12px 28px;
+    font-size: 16px;
+    font-weight: bold;
+    color: white;
+    background: linear-gradient(135deg, #000000, #333333);
+    border-radius: 8px;
+    text-decoration: none;
+    box-shadow: 0 4px 14px rgba(0,0,0,0.3);
+    transition: all 0.2s ease-in-out;
+  ">
+    📚 View All Articles
+  </a>
+</div>
 
 ---
