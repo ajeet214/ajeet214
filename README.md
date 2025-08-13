@@ -78,3 +78,6 @@ I'm a Lead AI Engineer
 
 ![](https://github-profile-trophy.vercel.app/?username=ajeet214&theme=neon&no-frame=false&no-bg=true&margin-w=4)
 
+### 📝 Latest Articles on Medium
+- [Title of Article 1](https://medium.com/@yourusername/article-1-slug)
+
