@@ -90,10 +90,10 @@ I'm a Lead AI Engineer
       </a>
     </td>
     <td align="center" width="33%">
-      <a href="https://medium.com/@YOUR_USERNAME/your-article-2-slug" title="Article 2 Title">
-        <img src="https://miro.medium.com/v2/resize:fit:640/1*EXAMPLE2.jpeg" alt="Article 2 Title" width="300" style="border-radius:12px;">
+      <a href="https://medium.com/@ajeet214/automating-microsoft-outlook-and-excel-with-pythons-win32com-86d830d1fc4a" title="Article 2 Title">
+        <img src="https://cdn-images-1.medium.com/max/1024/1*Ps-aa2w3UTooeALj69Yb2g.png" alt="Article 2 Title" width="300" style="border-radius:12px;">
         <br/>
-        <sub><b>Article 2 Title</b></sub>
+        <sub><b>Build a Semantic Search System Using Azure OpenAI, FAISS & Streamlit</b></sub>
       </a>
     </td>
     <td align="center" width="33%">
