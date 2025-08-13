@@ -78,6 +78,8 @@ I'm a Lead AI Engineer
 
 ![](https://github-profile-trophy.vercel.app/?username=ajeet214&theme=neon&no-frame=false&no-bg=true&margin-w=4)
 
+---
+
 ### 📝 Latest Articles on Medium
 
 <table>
@@ -149,3 +151,5 @@ I'm a Lead AI Engineer
     <img src="https://img.shields.io/badge/View%20All%20Articles-000000?style=for-the-badge&logo=medium&logoColor=white" alt="View All Articles on Medium">
   </a>
 </div>
+
+---
