@@ -111,4 +111,34 @@ I'm a Lead AI Engineer
       </a>
     </td>
   </tr>
+  <tr>
+    <td align="center" width="25%">
+      <a href="https://medium.com/@ajeet214/automating-microsoft-outlook-and-excel-with-pythons-win32com-86d830d1fc4a" title="Automating Microsoft Outlook and Excel with Python’s win32com">
+        <img src="https://cdn-images-1.medium.com/max/1024/1*hZQzFZKtBYByvvVU8TsVHA.png" alt="Automating Microsoft Outlook and Excel with Python’s win32com" width="300" style="border-radius:12px;">
+        <br/>
+        <sub><b>Automating Microsoft Outlook and Excel with Python’s win32com</b></sub>
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://medium.com/@ajeet214/automating-microsoft-outlook-and-excel-with-pythons-win32com-86d830d1fc4a" title="Build a Semantic Search System Using Azure OpenAI, FAISS & Streamlit">
+        <img src="https://cdn-images-1.medium.com/max/1024/1*Ps-aa2w3UTooeALj69Yb2g.png" alt="Build a Semantic Search System Using Azure OpenAI, FAISS & Streamlit" width="300" style="border-radius:12px;">
+        <br/>
+        <sub><b>Build a Semantic Search System Using Azure OpenAI, FAISS & Streamlit</b></sub>
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://medium.com/@ajeet214/microsoft-power-automate-vs-microsoft-copilot-studio-which-one-fits-your-business-needs-a084931a4d2c" title="Microsoft Power Automate vs Microsoft Copilot Studio: Which One Fits Your Business Needs?">
+        <img src="https://cdn-images-1.medium.com/max/713/1*VNh44OLQE28B4aebvuiNZA.png" alt="Microsoft Power Automate vs Microsoft Copilot Studio: Which One Fits Your Business Needs?" width="300" style="border-radius:12px;">
+        <br/>
+        <sub><b>Microsoft Power Automate vs Microsoft Copilot Studio: Which One Fits Your Business Needs?</b></sub>
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://medium.com/@ajeet214/9-free-weather-apis-for-ai-data-projects-6bfc66022e46" title="9 Free Weather APIs for AI & Data Projects">
+        <img src="https://cdn-images-1.medium.com/max/746/1*jbccFOGoB6ForATcR-C7mQ.png" alt="9 Free Weather APIs for AI & Data Projects" width="300" style="border-radius:12px;">
+        <br/>
+        <sub><b>9 Free Weather APIs for AI & Data Projects</b></sub>
+      </a>
+    </td>
+  </tr>
 </table>
