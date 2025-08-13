@@ -83,10 +83,10 @@ I'm a Lead AI Engineer
 <table>
   <tr>
     <td align="center" width="33%">
-      <a href="https://medium.com/@YOUR_USERNAME/your-article-1-slug" title="Article 1 Title">
-        <img src="https://miro.medium.com/v2/resize:fit:640/1*EXAMPLE1.jpeg" alt="Article 1 Title" width="300" style="border-radius:12px;">
+      <a href="https://medium.com/@ajeet214/automating-microsoft-outlook-and-excel-with-pythons-win32com-86d830d1fc4a" title="Automating Microsoft Outlook and Excel with Python’s win32com">
+        <img src="https://cdn-images-1.medium.com/max/1024/1*hZQzFZKtBYByvvVU8TsVHA.png" alt="Automating Microsoft Outlook and Excel with Python’s win32com" width="300" style="border-radius:12px;">
         <br/>
-        <sub><b>Article 1 Title</b></sub>
+        <sub><b>Automating Microsoft Outlook and Excel with Python’s win32com</b></sub>
       </a>
     </td>
     <td align="center" width="33%">
