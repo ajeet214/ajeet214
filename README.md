@@ -116,10 +116,10 @@ I'm a Lead AI Engineer
   <sub><b>Automating Microsoft Outlook and Excel with Python’s win32com</b></sub>
 </a>
 
-<a href="https://medium.com/@YOUR_USERNAME/your-article-2-slug" title="Article 2 Title" target="_blank">
-  <img src="https://miro.medium.com/v2/resize:fit:640/1*EXAMPLE2.jpeg" alt="Article 2 Title" width="300" style="border-radius:12px; box-shadow: 0 4px 14px rgba(0,0,0,0.2); margin:10px;">
+<a href="https://medium.com/@ajeet214/build-a-semantic-search-system-using-azure-openai-faiss-streamlit-a1c53ff5ebfb?source=rss-eda95b537a6b------2" title="Article 2 Title" target="_blank">
+  <img src="https://cdn-images-1.medium.com/max/1024/1*Ps-aa2w3UTooeALj69Yb2g.png" alt="Article 2 Title" width="300" style="border-radius:12px; box-shadow: 0 4px 14px rgba(0,0,0,0.2); margin:10px;">
   <br/>
-  <sub><b>Article 2 Title</b></sub>
+  <sub><b>Build a Semantic Search System Using Azure OpenAI, FAISS & Streamlit</b></sub>
 </a>
 
 <a href="https://medium.com/@YOUR_USERNAME/your-article-3-slug" title="Article 3 Title" target="_blank">
