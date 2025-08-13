@@ -122,24 +122,24 @@ I'm a Lead AI Engineer
       </a>
     </td>
     <td align="center" width="25%">
-      <a href="https://medium.com/@ajeet214/automating-microsoft-outlook-and-excel-with-pythons-win32com-86d830d1fc4a" title="Build a Semantic Search System Using Azure OpenAI, FAISS & Streamlit">
-        <img src="https://cdn-images-1.medium.com/max/1024/1*Ps-aa2w3UTooeALj69Yb2g.png" alt="Build a Semantic Search System Using Azure OpenAI, FAISS & Streamlit" width="300" style="border-radius:12px;">
+      <a href="https://medium.com/@ajeet214/building-a-real-time-stackoverflow-notifier-using-github-actions-and-pushover-7006ccfed57e" title="Building a Real-Time StackOverflow Notifier Using GitHub Actions and Pushover">
+        <img src="https://cdn-images-1.medium.com/max/510/1*WBUzcoAJQJyc5n-6pLxS8w.png" alt="Building a Real-Time StackOverflow Notifier Using GitHub Actions and Pushover" width="300" style="border-radius:12px;">
         <br/>
-        <sub><b>Build a Semantic Search System Using Azure OpenAI, FAISS & Streamlit</b></sub>
+        <sub><b>Building a Real-Time StackOverflow Notifier Using GitHub Actions and Pushover</b></sub>
       </a>
     </td>
     <td align="center" width="25%">
-      <a href="https://medium.com/@ajeet214/microsoft-power-automate-vs-microsoft-copilot-studio-which-one-fits-your-business-needs-a084931a4d2c" title="Microsoft Power Automate vs Microsoft Copilot Studio: Which One Fits Your Business Needs?">
-        <img src="https://cdn-images-1.medium.com/max/713/1*VNh44OLQE28B4aebvuiNZA.png" alt="Microsoft Power Automate vs Microsoft Copilot Studio: Which One Fits Your Business Needs?" width="300" style="border-radius:12px;">
+      <a href="https://medium.com/@ajeet214/the-future-of-ai-collaboration-model-context-protocol-mcp-and-googles-agent-to-agent-a2a-ffbdfd78ea0d" title="The Future of AI Collaboration: Model Context Protocol (MCP) and Google’s Agent-to-Agent (A2A)…">
+        <img src="https://cdn-images-1.medium.com/max/713/1*VNh44OLQE28B4aebvuiNZA.png" alt="The Future of AI Collaboration: Model Context Protocol (MCP) and Google’s Agent-to-Agent (A2A)…" width="300" style="border-radius:12px;">
         <br/>
-        <sub><b>Microsoft Power Automate vs Microsoft Copilot Studio: Which One Fits Your Business Needs?</b></sub>
+        <sub><b>The Future of AI Collaboration: Model Context Protocol (MCP) and Google’s Agent-to-Agent (A2A)…</b></sub>
       </a>
     </td>
     <td align="center" width="25%">
-      <a href="https://medium.com/@ajeet214/9-free-weather-apis-for-ai-data-projects-6bfc66022e46" title="9 Free Weather APIs for AI & Data Projects">
-        <img src="https://cdn-images-1.medium.com/max/746/1*jbccFOGoB6ForATcR-C7mQ.png" alt="9 Free Weather APIs for AI & Data Projects" width="300" style="border-radius:12px;">
+      <a href="https://medium.com/@ajeet214/choosing-the-right-large-language-model-what-you-need-to-know-684e5561ebc6" title="Choosing the Right Large Language Model: What You Need to Know ">
+        <img src="https://cdn-images-1.medium.com/max/1024/1*7ZqSFIHXOtJl87amlDYguA.jpeg" alt="Choosing the Right Large Language Model: What You Need to Know " width="300" style="border-radius:12px;">
         <br/>
-        <sub><b>9 Free Weather APIs for AI & Data Projects</b></sub>
+        <sub><b>Choosing the Right Large Language Model: What You Need to Know </b></sub>
       </a>
     </td>
   </tr>
