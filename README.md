@@ -151,5 +151,11 @@ I'm a Lead AI Engineer
     <img src="https://img.shields.io/badge/View%20All%20Articles-000000?style=for-the-badge&logo=medium&logoColor=white&labelColor=141f1d&color=adf0f0" alt="View All Articles on Medium">
   </a>
 </div>
+<div align="right">
+  <br/>
+  <a href="https://medium.com/@ajeet214" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/View%20All%20Articles-%23000000?style=for-the-badge&logo=medium&logoColor=white&labelColor=0A0A0A&color=0A0A0A" alt="View All Articles on Medium" style="border-radius:50px; box-shadow:0 4px 14px rgba(0,0,0,0.3);">
+  </a>
+</div>
 
 ---
