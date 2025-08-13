@@ -115,10 +115,10 @@ I'm a Lead AI Engineer
   </tr>
   <tr>
     <td align="center" width="25%">
-      <a href="https://medium.com/@ajeet214/automating-microsoft-outlook-and-excel-with-pythons-win32com-86d830d1fc4a" title="Automating Microsoft Outlook and Excel with Python’s win32com">
-        <img src="https://cdn-images-1.medium.com/max/1024/1*hZQzFZKtBYByvvVU8TsVHA.png" alt="Automating Microsoft Outlook and Excel with Python’s win32com" width="300" style="border-radius:12px;">
+      <a href="https://medium.com/@ajeet214/getting-started-with-robot-framework-and-python-your-first-step-into-automation-470ea0f18fd1" title="🚀 Getting Started with Robot Framework and Python: Your First Step into Automation!">
+        <img src="https://cdn-images-1.medium.com/max/1024/1*Z0cOKyWt_Z4yHQR-yvh_zw.png" alt="🚀 Getting Started with Robot Framework and Python: Your First Step into Automation!" width="300" style="border-radius:12px;">
         <br/>
-        <sub><b>Automating Microsoft Outlook and Excel with Python’s win32com</b></sub>
+        <sub><b>🚀 Getting Started with Robot Framework and Python: Your First Step into Automation!</b></sub>
       </a>
     </td>
     <td align="center" width="25%">
