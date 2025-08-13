@@ -161,18 +161,19 @@ I'm a Lead AI Engineer
   <br/>
   <a href="https://medium.com/@ajeet214" target="_blank" style="
     display:inline-block;
-    padding: 12px 28px;
+    padding: 12px 32px;
     font-size: 16px;
     font-weight: bold;
     color: white;
-    background: linear-gradient(135deg, #000000, #333333);
-    border-radius: 8px;
+    background-color: #000000;
+    border: 2px solid #000000;
     text-decoration: none;
-    box-shadow: 0 4px 14px rgba(0,0,0,0.3);
+    box-shadow: 0 4px 6px rgba(0,0,0,0.3);
     transition: all 0.2s ease-in-out;
   ">
-    📚 View All Articles
+    View All Articles
   </a>
 </div>
+
 
 ---
