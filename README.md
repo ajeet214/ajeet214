@@ -103,5 +103,12 @@ I'm a Lead AI Engineer
         <sub><b>Microsoft Power Automate vs Microsoft Copilot Studio: Which One Fits Your Business Needs?</b></sub>
       </a>
     </td>
+    <td align="center" width="33%">
+      <a href="https://medium.com/@ajeet214/9-free-weather-apis-for-ai-data-projects-6bfc66022e46" title="9 Free Weather APIs for AI & Data Projects">
+        <img src="https://cdn-images-1.medium.com/max/746/1*jbccFOGoB6ForATcR-C7mQ.png" alt="9 Free Weather APIs for AI & Data Projects" width="300" style="border-radius:12px;">
+        <br/>
+        <sub><b>9 Free Weather APIs for AI & Data Projects</b></sub>
+      </a>
+    </td>
   </tr>
 </table>
