@@ -90,43 +90,18 @@ I'm a Lead AI Engineer
       </a>
     </td>
     <td align="center" width="33%">
-      <a href="https://medium.com/@ajeet214/automating-microsoft-outlook-and-excel-with-pythons-win32com-86d830d1fc4a" title="Article 2 Title">
-        <img src="https://cdn-images-1.medium.com/max/1024/1*Ps-aa2w3UTooeALj69Yb2g.png" alt="Article 2 Title" width="300" style="border-radius:12px;">
+      <a href="https://medium.com/@ajeet214/automating-microsoft-outlook-and-excel-with-pythons-win32com-86d830d1fc4a" title="Build a Semantic Search System Using Azure OpenAI, FAISS & Streamlit">
+        <img src="https://cdn-images-1.medium.com/max/1024/1*Ps-aa2w3UTooeALj69Yb2g.png" alt="Build a Semantic Search System Using Azure OpenAI, FAISS & Streamlit" width="300" style="border-radius:12px;">
         <br/>
         <sub><b>Build a Semantic Search System Using Azure OpenAI, FAISS & Streamlit</b></sub>
       </a>
     </td>
     <td align="center" width="33%">
-      <a href="https://medium.com/@YOUR_USERNAME/your-article-3-slug" title="Article 3 Title">
-        <img src="https://miro.medium.com/v2/resize:fit:640/1*EXAMPLE3.jpeg" alt="Article 3 Title" width="300" style="border-radius:12px;">
+      <a href="https://medium.com/@ajeet214/microsoft-power-automate-vs-microsoft-copilot-studio-which-one-fits-your-business-needs-a084931a4d2c" title="Microsoft Power Automate vs Microsoft Copilot Studio: Which One Fits Your Business Needs?">
+        <img src="https://cdn-images-1.medium.com/max/713/1*VNh44OLQE28B4aebvuiNZA.png" alt="Microsoft Power Automate vs Microsoft Copilot Studio: Which One Fits Your Business Needs?" width="300" style="border-radius:12px;">
         <br/>
-        <sub><b>Article 3 Title</b></sub>
+        <sub><b>Microsoft Power Automate vs Microsoft Copilot Studio: Which One Fits Your Business Needs?</b></sub>
       </a>
     </td>
   </tr>
 </table>
-
-## 📝 Latest on Medium
-
-<div align="center">
-
-<a href="https://medium.com/@ajeet214/automating-microsoft-outlook-and-excel-with-pythons-win32com-86d830d1fc4a" title="Automating Microsoft Outlook and Excel with Python’s win32com" target="_blank">
-  <img src="https://cdn-images-1.medium.com/max/1024/1*hZQzFZKtBYByvvVU8TsVHA.png" alt="Automating Microsoft Outlook and Excel with Python’s win32com" width="300" style="border-radius:12px; box-shadow: 0 4px 14px rgba(0,0,0,0.2); margin:10px;">
-  <br/>
-  <sub><b>Automating Microsoft Outlook and Excel with Python’s win32com</b></sub>
-</a>
-
-<a href="https://medium.com/@ajeet214/build-a-semantic-search-system-using-azure-openai-faiss-streamlit-a1c53ff5ebfb?source=rss-eda95b537a6b------2" title="Article 2 Title" target="_blank">
-  <img src="https://cdn-images-1.medium.com/max/1024/1*Ps-aa2w3UTooeALj69Yb2g.png" alt="Article 2 Title" width="300" style="border-radius:12px; box-shadow: 0 4px 14px rgba(0,0,0,0.2); margin:10px;">
-  <br/>
-  <sub><b>Build a Semantic Search System Using Azure OpenAI, FAISS & Streamlit</b></sub>
-</a>
-
-<a href="https://medium.com/@YOUR_USERNAME/your-article-3-slug" title="Article 3 Title" target="_blank">
-  <img src="https://miro.medium.com/v2/resize:fit:640/1*EXAMPLE3.jpeg" alt="Article 3 Title" width="300" style="border-radius:12px; box-shadow: 0 4px 14px rgba(0,0,0,0.2); margin:10px;">
-  <br/>
-  <sub><b>Article 3 Title</b></sub>
-</a>
-
-</div>
-
