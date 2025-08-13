@@ -79,5 +79,30 @@ I'm a Lead AI Engineer
 ![](https://github-profile-trophy.vercel.app/?username=ajeet214&theme=neon&no-frame=false&no-bg=true&margin-w=4)
 
 ### 📝 Latest Articles on Medium
-- [Title of Article 1](https://medium.com/@yourusername/article-1-slug)
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://medium.com/@YOUR_USERNAME/your-article-1-slug" title="Article 1 Title">
+        <img src="https://miro.medium.com/v2/resize:fit:640/1*EXAMPLE1.jpeg" alt="Article 1 Title" width="300" style="border-radius:12px;">
+        <br/>
+        <sub><b>Article 1 Title</b></sub>
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://medium.com/@YOUR_USERNAME/your-article-2-slug" title="Article 2 Title">
+        <img src="https://miro.medium.com/v2/resize:fit:640/1*EXAMPLE2.jpeg" alt="Article 2 Title" width="300" style="border-radius:12px;">
+        <br/>
+        <sub><b>Article 2 Title</b></sub>
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://medium.com/@YOUR_USERNAME/your-article-3-slug" title="Article 3 Title">
+        <img src="https://miro.medium.com/v2/resize:fit:640/1*EXAMPLE3.jpeg" alt="Article 3 Title" width="300" style="border-radius:12px;">
+        <br/>
+        <sub><b>Article 3 Title</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
