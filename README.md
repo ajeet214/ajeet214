@@ -148,7 +148,7 @@ I'm a Lead AI Engineer
 <div align="right">
   <br/>
   <a href="https://medium.com/@ajeet214" target="_blank">
-    <img src="https://img.shields.io/badge/View%20All%20Articles-000000?style=for-the-badge&logo=medium&logoColor=white" alt="View All Articles on Medium">
+    <img src="https://img.shields.io/badge/View%20All%20Articles-000000?style=for-the-badge&logo=medium&logoColor=white&labelColor=141f1d&color=adf0f0" alt="View All Articles on Medium">
   </a>
 </div>
 
