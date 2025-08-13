@@ -142,3 +142,34 @@ I'm a Lead AI Engineer
     </td>
   </tr>
 </table>
+
+## 📝 Latest on Medium
+
+<div align="center">
+
+<a href="https://medium.com/@YOUR_USERNAME/your-article-1-slug" title="Article 1 Title" target="_blank">
+  <img src="https://miro.medium.com/v2/resize:fit:640/1*EXAMPLE1.jpeg" alt="Article 1 Title" width="300" style="border-radius:12px; box-shadow: 0 4px 14px rgba(0,0,0,0.2); margin:10px;">
+  <br/>
+  <sub><b>Article 1 Title</b></sub>
+</a>
+
+<a href="https://medium.com/@YOUR_USERNAME/your-article-2-slug" title="Article 2 Title" target="_blank">
+  <img src="https://miro.medium.com/v2/resize:fit:640/1*EXAMPLE2.jpeg" alt="Article 2 Title" width="300" style="border-radius:12px; box-shadow: 0 4px 14px rgba(0,0,0,0.2); margin:10px;">
+  <br/>
+  <sub><b>Article 2 Title</b></sub>
+</a>
+
+<a href="https://medium.com/@YOUR_USERNAME/your-article-3-slug" title="Article 3 Title" target="_blank">
+  <img src="https://miro.medium.com/v2/resize:fit:640/1*EXAMPLE3.jpeg" alt="Article 3 Title" width="300" style="border-radius:12px; box-shadow: 0 4px 14px rgba(0,0,0,0.2); margin:10px;">
+  <br/>
+  <sub><b>Article 3 Title</b></sub>
+</a>
+
+<br/><br/>
+
+<a href="https://medium.com/@YOUR_USERNAME" target="_blank">
+  <img src="https://img.shields.io/badge/View%20All%20Articles-000000?style=for-the-badge&logo=medium&logoColor=white" alt="View All Articles on Medium">
+</a>
+
+</div>
+
