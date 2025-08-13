@@ -92,7 +92,7 @@ I'm a Lead AI Engineer
       </a>
     </td>
     <td align="center" width="25%">
-      <a href="https://medium.com/@ajeet214/automating-microsoft-outlook-and-excel-with-pythons-win32com-86d830d1fc4a" title="Build a Semantic Search System Using Azure OpenAI, FAISS & Streamlit">
+      <a href="https://medium.com/@ajeet214/build-a-semantic-search-system-using-azure-openai-faiss-streamlit-a1c53ff5ebfb" title="Build a Semantic Search System Using Azure OpenAI, FAISS & Streamlit">
         <img src="https://cdn-images-1.medium.com/max/1024/1*Ps-aa2w3UTooeALj69Yb2g.png" alt="Build a Semantic Search System Using Azure OpenAI, FAISS & Streamlit" width="300" style="border-radius:12px;">
         <br/>
         <sub><b>Build a Semantic Search System Using Azure OpenAI, FAISS & Streamlit</b></sub>
@@ -130,7 +130,7 @@ I'm a Lead AI Engineer
     </td>
     <td align="center" width="25%">
       <a href="https://medium.com/@ajeet214/the-future-of-ai-collaboration-model-context-protocol-mcp-and-googles-agent-to-agent-a2a-ffbdfd78ea0d" title="The Future of AI Collaboration: Model Context Protocol (MCP) and Google’s Agent-to-Agent (A2A)…">
-        <img src="https://cdn-images-1.medium.com/max/713/1*VNh44OLQE28B4aebvuiNZA.png" alt="The Future of AI Collaboration: Model Context Protocol (MCP) and Google’s Agent-to-Agent (A2A)…" width="300" style="border-radius:12px;">
+        <img src="https://cdn-images-1.medium.com/max/1008/1*3393jJELJWKw47eoOSaNMw.png" alt="The Future of AI Collaboration: Model Context Protocol (MCP) and Google’s Agent-to-Agent (A2A)…" width="300" style="border-radius:12px;">
         <br/>
         <sub><b>The Future of AI Collaboration: Model Context Protocol (MCP) and Google’s Agent-to-Agent (A2A)…</b></sub>
       </a>
